@@ -19,6 +19,7 @@ class LinkedList:
 
 
 if __name__ == '__main__':
+
     llist = LinkedList()
 
     llist.head = Node(1)
